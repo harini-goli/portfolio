@@ -104,7 +104,7 @@ const Portfolio = () => {
       {/* Navbar */}
       <header>
         <a href="#home" className="logo">
-          <i className="fab fa-node-js"></i> Beautiful Portfolio
+          <i className="fab fa-github"></i> Beautiful Portfolio
         </a>
         <div id="menu" className="fas fa-bars"></div>
         <nav className="navbar">
